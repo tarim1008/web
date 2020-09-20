@@ -18,7 +18,7 @@ Role Variables
 | `mysql_dbname`          | string | Database name that will be used in the php app                  |   oui       |
 | `db_host`               | string | Database ip/host that that will be used in the php app          |   oui       |
 | `extra_packages_debian` | list   | extra Debian packages that will be downloaded                   |   non       |
-| `extra_packages_redhat` | list   | extra RedHat packages that will be downloaded 
+| `extra_packages_redhat` | list   | extra RedHat packages that will be downloaded                   |   non       |
 
 Dependencies
 ------------
